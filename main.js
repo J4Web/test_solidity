@@ -3,7 +3,7 @@ const path = require('path');
 const app=express();
 
 
-
+//middlewares setup
 app.use(express.static(path.join(__dirname,"public")));
 
 app.get('/',(req,res)=>{
