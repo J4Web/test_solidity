@@ -1,7 +1,4 @@
-//server set up 
-
-
-
+//server set up
 
 
 
